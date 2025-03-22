@@ -1,0 +1,3 @@
+First line of text
+Second line with some numbers: 12345
+Third line with special characters: !@#$%^&*
